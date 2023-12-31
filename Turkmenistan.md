@@ -3,7 +3,7 @@ title: رایزنی فرهنگی سفارت جمهوری اسلامی ایران
 tags: [آموزش زبان فارسی حضوری, آموزش زبان فارسی الکترونیکی همزمان, تالیف کتاب, برگزاری آزمون تعیین سطح]
 date: 2023-11-11 10:38:00 +0330
 image: 
-path: .png
+path: /assets/img/logos/Turkmenistan.png
 alt: رایزنی فرهنگی سفارت جمهوری اسلامی ایران در ترکمنستان
 website: https://tk.icro.ir/Ashgabat
 email: naraculture@gmail.com
