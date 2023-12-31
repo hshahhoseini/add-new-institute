@@ -3,7 +3,7 @@ title: مرکز تحقیقات و آموزش زبان فارسی رایزنی ف
 tags: [آموزش زبان فارسی حضوری, آموزش زبان فارسی الکترونیکی همزمان, تالیف کتاب, برگزاری آزمون تعیین سطح]
 date: 2023-09-30 10:30:00 +0330
 image: 
-    path: /assets/img/logos/Cultural-consultation-in-Syria.png
+    path: /assets/img/logos/ankara.jpg
     alt: مرکز تحقیقات و آموزش زبان فارسی رایزنی فرهنگی سفارت ایران در آنکارا
 website: https://www.fomer.ir/
 email: info@fomer.ir
