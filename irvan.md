@@ -3,7 +3,7 @@ title: دانشگاه دولتی ایروان
 tags: [آموزش زبان فارسی حضوری, آموزش زبان فارسی الکترونیکی همزمان, تالیف کتاب, برگزاری آزمون تعیین سطح]
 date: 2023-09-30 12:30:00 +0330
 image: 
-    path: /assets/img/logos/Cultural-consultation-in-Syria.png
+    path: /assets/img/logos/irvan.png
     alt: دانشگاه دولتی ایروان
 website: http://www.ysu.am/main/
 email: orient@ysu.am
