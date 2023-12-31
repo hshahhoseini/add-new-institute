@@ -3,7 +3,7 @@ title: دانشگاه دولتی باکو
 tags: [آموزش زبان فارسی حضوری, آموزش زبان فارسی الکترونیکی همزمان, تالیف کتاب, برگزاری آزمون تعیین سطح]
 date: 2023-11-11 11:26:00 +0330
 image: 
-path: .png
+path:  /assets/img/logos/baku.png
 alt: دانشگاه دولتی باکو
 website: https://bsu.edu.az
 email: 	info@bsu.edu.az
